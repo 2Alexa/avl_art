@@ -1,0 +1,25 @@
+{
+    "art":[
+    {
+        "id": 1,
+        "name": "Picasso"
+    },
+    {
+        "id": 2,
+        "name": "Monalisa"
+    },
+    {
+        "id": 3,
+        "name": "Baum"
+    },
+    {
+        "id": 4,
+        "name": "Leben"
+    },
+    {
+        "id": 5,
+        "name": "Welt"
+    }
+
+]
+}
